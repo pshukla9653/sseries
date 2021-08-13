@@ -1,0 +1,35 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2020-04-25 08:39:14 --> Severity: Warning --> Declaration of MY_Upload::initialize($config = Array) should be compatible with CI_Upload::initialize(array $config = Array, $reset = true) /home/u890806257/domains/sseries.org/public_html/application/libraries/MY_Upload.php 0
+ERROR - 2020-04-25 08:39:15 --> Severity: Notice --> Only variables should be passed by reference /home/u890806257/domains/sseries.org/public_html/application/models/Web_model.php 24
+ERROR - 2020-04-25 10:02:42 --> Severity: Warning --> Declaration of MY_Upload::initialize($config = Array) should be compatible with CI_Upload::initialize(array $config = Array, $reset = true) /home/u890806257/domains/sseries.org/public_html/application/libraries/MY_Upload.php 0
+ERROR - 2020-04-25 10:02:42 --> Severity: Notice --> Only variables should be passed by reference /home/u890806257/domains/sseries.org/public_html/application/models/Web_model.php 24
+ERROR - 2020-04-25 13:11:56 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-04-25 13:11:57 --> Severity: Warning --> Declaration of MY_Upload::initialize($config = Array) should be compatible with CI_Upload::initialize(array $config = Array, $reset = true) /home/u890806257/domains/sseries.org/public_html/application/libraries/MY_Upload.php 0
+ERROR - 2020-04-25 13:11:57 --> Severity: Notice --> Only variables should be passed by reference /home/u890806257/domains/sseries.org/public_html/application/models/Web_model.php 24
+ERROR - 2020-04-25 13:14:02 --> Severity: Warning --> Declaration of MY_Upload::initialize($config = Array) should be compatible with CI_Upload::initialize(array $config = Array, $reset = true) /home/u890806257/domains/sseries.org/public_html/application/libraries/MY_Upload.php 0
+ERROR - 2020-04-25 16:20:41 --> Severity: Warning --> Declaration of MY_Upload::initialize($config = Array) should be compatible with CI_Upload::initialize(array $config = Array, $reset = true) /home/u890806257/domains/sseries.org/public_html/application/libraries/MY_Upload.php 0
+ERROR - 2020-04-25 16:20:42 --> Severity: Notice --> Only variables should be passed by reference /home/u890806257/domains/sseries.org/public_html/application/models/Web_model.php 24
+ERROR - 2020-04-25 17:01:31 --> Severity: Warning --> Declaration of MY_Upload::initialize($config = Array) should be compatible with CI_Upload::initialize(array $config = Array, $reset = true) /home/u890806257/domains/sseries.org/public_html/application/libraries/MY_Upload.php 0
+ERROR - 2020-04-25 17:01:31 --> Severity: Notice --> Only variables should be passed by reference /home/u890806257/domains/sseries.org/public_html/application/models/Web_model.php 24
+ERROR - 2020-04-25 17:10:43 --> Severity: Warning --> Declaration of MY_Upload::initialize($config = Array) should be compatible with CI_Upload::initialize(array $config = Array, $reset = true) /home/u890806257/domains/sseries.org/public_html/application/libraries/MY_Upload.php 0
+ERROR - 2020-04-25 17:10:43 --> Severity: Notice --> Only variables should be passed by reference /home/u890806257/domains/sseries.org/public_html/application/models/Web_model.php 24
+ERROR - 2020-04-25 17:17:51 --> Severity: Warning --> Declaration of MY_Upload::initialize($config = Array) should be compatible with CI_Upload::initialize(array $config = Array, $reset = true) /home/u890806257/domains/sseries.org/public_html/application/libraries/MY_Upload.php 0
+ERROR - 2020-04-25 17:17:51 --> Severity: Notice --> Only variables should be passed by reference /home/u890806257/domains/sseries.org/public_html/application/models/Web_model.php 24
+ERROR - 2020-04-25 20:55:17 --> Severity: Warning --> Declaration of MY_Upload::initialize($config = Array) should be compatible with CI_Upload::initialize(array $config = Array, $reset = true) /home/u890806257/domains/sseries.org/public_html/application/libraries/MY_Upload.php 0
+ERROR - 2020-04-25 20:55:17 --> Severity: Notice --> Only variables should be passed by reference /home/u890806257/domains/sseries.org/public_html/application/models/Web_model.php 24
+ERROR - 2020-04-25 21:11:18 --> Severity: Warning --> Declaration of MY_Upload::initialize($config = Array) should be compatible with CI_Upload::initialize(array $config = Array, $reset = true) /home/u890806257/domains/sseries.org/public_html/application/libraries/MY_Upload.php 0
+ERROR - 2020-04-25 21:11:18 --> Severity: Notice --> Only variables should be passed by reference /home/u890806257/domains/sseries.org/public_html/application/models/Web_model.php 24
+ERROR - 2020-04-25 21:11:20 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-04-25 21:11:21 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-04-25 21:11:22 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-04-25 21:16:59 --> Severity: Warning --> Declaration of MY_Upload::initialize($config = Array) should be compatible with CI_Upload::initialize(array $config = Array, $reset = true) /home/u890806257/domains/sseries.org/public_html/application/libraries/MY_Upload.php 0
+ERROR - 2020-04-25 21:16:59 --> Severity: Notice --> Only variables should be passed by reference /home/u890806257/domains/sseries.org/public_html/application/models/Web_model.php 24
+ERROR - 2020-04-25 21:29:51 --> Severity: Warning --> Declaration of MY_Upload::initialize($config = Array) should be compatible with CI_Upload::initialize(array $config = Array, $reset = true) /home/u890806257/domains/sseries.org/public_html/application/libraries/MY_Upload.php 0
+ERROR - 2020-04-25 21:29:51 --> Severity: Notice --> Undefined variable: data /home/u890806257/domains/sseries.org/public_html/application/controllers/Web.php 61
+ERROR - 2020-04-25 23:44:14 --> Severity: Warning --> Declaration of MY_Upload::initialize($config = Array) should be compatible with CI_Upload::initialize(array $config = Array, $reset = true) /home/u890806257/domains/sseries.org/public_html/application/libraries/MY_Upload.php 0
+ERROR - 2020-04-25 23:44:14 --> Severity: Notice --> Only variables should be passed by reference /home/u890806257/domains/sseries.org/public_html/application/models/Web_model.php 24
+ERROR - 2020-04-25 23:44:16 --> Severity: Warning --> Declaration of MY_Upload::initialize($config = Array) should be compatible with CI_Upload::initialize(array $config = Array, $reset = true) /home/u890806257/domains/sseries.org/public_html/application/libraries/MY_Upload.php 0
+ERROR - 2020-04-25 23:44:16 --> Severity: Notice --> Undefined variable: data /home/u890806257/domains/sseries.org/public_html/application/controllers/Web.php 37
+ERROR - 2020-04-25 23:44:17 --> Severity: Warning --> Declaration of MY_Upload::initialize($config = Array) should be compatible with CI_Upload::initialize(array $config = Array, $reset = true) /home/u890806257/domains/sseries.org/public_html/application/libraries/MY_Upload.php 0
+ERROR - 2020-04-25 23:44:18 --> Severity: Notice --> Undefined variable: data /home/u890806257/domains/sseries.org/public_html/application/controllers/Web.php 37

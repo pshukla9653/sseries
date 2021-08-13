@@ -1,0 +1,19 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2019-10-09 00:54:56 --> Severity: Runtime Notice --> Declaration of MY_Upload::initialize() should be compatible with CI_Upload::initialize(array $config = Array, $reset = true) /home/u890806257/domains/sseries.org/public_html/application/libraries/MY_Upload.php 0
+ERROR - 2019-10-09 00:54:56 --> Severity: Runtime Notice --> Only variables should be passed by reference /home/u890806257/domains/sseries.org/public_html/application/models/Web_model.php 24
+ERROR - 2019-10-09 02:04:18 --> Severity: Runtime Notice --> Declaration of MY_Upload::initialize() should be compatible with CI_Upload::initialize(array $config = Array, $reset = true) /home/u890806257/domains/sseries.org/public_html/application/libraries/MY_Upload.php 0
+ERROR - 2019-10-09 02:04:18 --> Severity: Runtime Notice --> Only variables should be passed by reference /home/u890806257/domains/sseries.org/public_html/application/models/Web_model.php 24
+ERROR - 2019-10-09 03:00:52 --> Severity: Runtime Notice --> Declaration of MY_Upload::initialize() should be compatible with CI_Upload::initialize(array $config = Array, $reset = true) /home/u890806257/domains/sseries.org/public_html/application/libraries/MY_Upload.php 0
+ERROR - 2019-10-09 03:00:52 --> Severity: Runtime Notice --> Only variables should be passed by reference /home/u890806257/domains/sseries.org/public_html/application/models/Web_model.php 24
+ERROR - 2019-10-09 05:22:54 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2019-10-09 05:22:55 --> Severity: Runtime Notice --> Declaration of MY_Upload::initialize() should be compatible with CI_Upload::initialize(array $config = Array, $reset = true) /home/u890806257/domains/sseries.org/public_html/application/libraries/MY_Upload.php 0
+ERROR - 2019-10-09 05:22:55 --> Severity: Runtime Notice --> Only variables should be passed by reference /home/u890806257/domains/sseries.org/public_html/application/models/Web_model.php 24
+ERROR - 2019-10-09 08:15:07 --> Severity: Runtime Notice --> Declaration of MY_Upload::initialize() should be compatible with CI_Upload::initialize(array $config = Array, $reset = true) /home/u890806257/domains/sseries.org/public_html/application/libraries/MY_Upload.php 0
+ERROR - 2019-10-09 08:15:07 --> Severity: Runtime Notice --> Only variables should be passed by reference /home/u890806257/domains/sseries.org/public_html/application/models/Web_model.php 24
+ERROR - 2019-10-09 12:16:48 --> Severity: Runtime Notice --> Declaration of MY_Upload::initialize() should be compatible with CI_Upload::initialize(array $config = Array, $reset = true) /home/u890806257/domains/sseries.org/public_html/application/libraries/MY_Upload.php 0
+ERROR - 2019-10-09 12:16:48 --> Severity: Runtime Notice --> Only variables should be passed by reference /home/u890806257/domains/sseries.org/public_html/application/models/Web_model.php 24
+ERROR - 2019-10-09 12:16:59 --> Severity: Runtime Notice --> Declaration of MY_Upload::initialize() should be compatible with CI_Upload::initialize(array $config = Array, $reset = true) /home/u890806257/domains/sseries.org/public_html/application/libraries/MY_Upload.php 0
+ERROR - 2019-10-09 12:16:59 --> Severity: Runtime Notice --> Only variables should be passed by reference /home/u890806257/domains/sseries.org/public_html/application/models/Web_model.php 24
+ERROR - 2019-10-09 15:55:35 --> Severity: Runtime Notice --> Declaration of MY_Upload::initialize() should be compatible with CI_Upload::initialize(array $config = Array, $reset = true) /home/u890806257/domains/sseries.org/public_html/application/libraries/MY_Upload.php 0
+ERROR - 2019-10-09 15:55:35 --> Severity: Runtime Notice --> Only variables should be passed by reference /home/u890806257/domains/sseries.org/public_html/application/models/Web_model.php 24
